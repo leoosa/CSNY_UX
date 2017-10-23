@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "AF2062FE-D8D4-436D-9C0C-CB9BFDAA5429",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 358,
+    "width": 1200,
+    "x": 130,
+    "y": 1452
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BBDE89A4-FB4A-4BAE-B47D-B4FFA5E31013"
+    },
+    {
+      "class": "group",
+      "id": "ACB2E2B3-2D48-4CE2-BA44-4931DF5DB815"
+    }
+  ],
+  "name": "Popular bus tours",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

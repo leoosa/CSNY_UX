@@ -1,0 +1,225 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "D1A2FCED-7471-4460-BEDA-2B7D1D6CB6DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 213,
+    "width": 379,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "81CFD07F-9C8C-40BA-A406-8931E407F2A2"
+    }
+  ],
+  "name": "Rectangle 2 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/76d2503ae8220fa8c7b8d9ba901b8958dd104fbc",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/c/s/csny_flex.png",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/p/r/productpagecardcta_609x343_01.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/d/o/downtown_tour_streets_1_6.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/o/n/one_world_1_3.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/l/i/liberty_helicopters_5_1.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/m/a/manhattan_helicopters_6.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/r/i/rip1_4_1.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/s/t/statue_of_liberty_3.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/s/i/sights-shop-2.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/c/r/cruise_one_world_trade_1_2_7.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/e/m/emprie_state_building_2.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/e/m/emprie_state_building_16.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/9/1/911-memorial_1_1_3.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/9/1/911-memorial-1_1_1_2.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/9/1/911-memorial_1_1_1.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/t/o/top_rock_observeration_5.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/9/1/911-memorial_1.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/u/p/uptown_tour_guggenheim_1_3_1.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/o/n/one_world_1_11.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/t/h/thetour-3_1.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/e/s/esb-1_15.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/a/m/amnh-3_1_.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/g/u/gulliver-2_2.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/o/n/one_world_1_4.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/e/m/empire_state_building_night.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/n/e/new_york_historical_society_8.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/g/u/gulliver-1_2.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/w/o/woodbury_common_1_3.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/t/o/top_rock_deck_1_2.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/c/r/cruise_one_world_trade_1_2_1.jpg",
+            "type": "src"
+          },
+          {
+            "link": "https://www.citysightsny.com/media/catalog/product/cache/26/small_image/9df78eab33525d08d6e5fb8d27136e95/s/t/statue_of_liberty_3.jpg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  },
+  "windingRule": 1
+}
